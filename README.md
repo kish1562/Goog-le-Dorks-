@@ -6,12 +6,12 @@ An outstanding and highly practical guide to Google Dorking has been synthesized
 
 ---
 
-## ðŸ“– About the Guide
+##About the Guide
 This repository contains a curated cheat sheet of Google Dork queries designed to help individuals audit their online exposure and monitor their digital footprint. By utilizing advanced search operators, you can identify accidental data leaks of names, emails, phone numbers, and sensitive documents across the web.
 
 ---
 
-## ðŸ› ï¸ Core Google Dorks Operators Reference
+##Core Google Dorks Operators Reference
 
 Google Dorks leverage advanced search operators to filter index databases with high precision.
 
@@ -25,7 +25,7 @@ Google Dorks leverage advanced search operators to filter index databases with h
 
 ---
 
-## ðŸ” Cheat Sheet Queries
+## Cheat Sheet Queries
 
 ### 1. File and Document Auditing
 Locate accidentally exposed documents containing personal names or private details.
